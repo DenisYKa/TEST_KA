@@ -38,3 +38,6 @@
 <FrameLayout android:background="@color/colorPrimaryLight" android:id="@+id/frameLayout17" android:layout_height="8dp" android:layout_width="match_parent" android:visibility="visible" android:layout_marginRight="60dp" android:layout_alignParentTop="false" android:layout_alignParentBottom="false" android:layout_gravity="center|right"/>
 
 </LinearLayout>
+
+
+test
